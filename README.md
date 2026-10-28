@@ -9,7 +9,7 @@ An end-to-end analytics project exploring active commercial registrations in Sau
 
 ## Data Model
 
-![Power BI Data Model](images/data-model.png)
+![Power BI Data Model](https://github.com/AbdullahHKA/Saudi-Commercial-Registrations-Analysis/blob/main/ModelPh.png)
 
 ## Project Workflow
 
