@@ -5,7 +5,7 @@ An end-to-end analytics project exploring active commercial registrations in Sau
 
 ## Dashboard Preview
 
-![Saudi Commercial Registrations Dashboard](images/dashboard.png)
+![Saudi Commercial Registrations Dashboard](https://github.com/AbdullahHKA/Saudi-Commercial-Registrations-Analysis/blob/main/DashboardPh.png)
 
 ## Data Model
 
